@@ -1,4 +1,4 @@
-# future_ready_talent_project
+# beginner-friendly-tech-projects
 This is a project for Microsoft Future Ready Talent
 
 Industry : Lifestyle
